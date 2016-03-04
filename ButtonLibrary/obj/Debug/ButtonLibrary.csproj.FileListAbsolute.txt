@@ -1,0 +1,26 @@
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\bin\Debug\MefExtensibility.exe
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\bin\Debug\MefExtensibility.pdb
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\GreenButton.baml
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\GreenButton.g.cs
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary_MarkupCompile.cache
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.g.resources
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.Properties.Resources.resources
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.csproj.GenerateResource.Cache
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+D:\MyTripSourceCode\MefExtensibility\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\bin\Debug\MefExtensibility.exe
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\bin\Debug\MefExtensibility.pdb
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\GreenButton.baml
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\GreenButton.g.cs
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary_MarkupCompile.cache
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.g.resources
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.Properties.Resources.resources
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.csproj.GenerateResource.Cache
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\dugalde\Desktop\New Folder\ButtonLibrary\obj\Debug\ButtonLibrary.pdb

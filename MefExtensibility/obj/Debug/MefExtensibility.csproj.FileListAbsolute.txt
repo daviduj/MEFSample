@@ -1,0 +1,39 @@
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\bin\Debug\MefExtensibility.exe.config
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\bin\Debug\MefExtensibility.exe
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\bin\Debug\MefExtensibility.pdb
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.csprojResolveAssemblyReference.cache
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MainWindow.baml
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MainWindow.g.cs
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\App.g.cs
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility_MarkupCompile.cache
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.g.resources
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.Properties.Resources.resources
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.csproj.GenerateResource.Cache
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.exe
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility.pdb
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\CustomButtons\PinkButton.baml
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\CustomButtons\GreyButton.baml
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\CustomButtons\PinkButton.g.cs
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\CustomButtons\GreyButton.g.cs
+D:\MyTripSourceCode\MefExtensibility\MefExtensibility\obj\Debug\MefExtensibility_MarkupCompile.lref
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\bin\Debug\MefExtensibility.exe.config
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.exe
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.pdb
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\bin\Debug\MefExtensibility.exe
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\bin\Debug\MefExtensibility.pdb
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.csprojResolveAssemblyReference.cache
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\CustomButtons\PinkButton.baml
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\CustomButtons\GreyButton.baml
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\CustomButtons\PinkButton.g.cs
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\CustomButtons\GreyButton.g.cs
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MainWindow.g.cs
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\App.g.cs
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility_MarkupCompile.cache
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility_MarkupCompile.lref
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MainWindow.baml
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.g.resources
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.Properties.Resources.resources
+C:\Users\dugalde\Desktop\New Folder\MefExtensibility\obj\Debug\MefExtensibility.csproj.GenerateResource.Cache
+C:\Users\dugalde\Downloads\Git\MEFSample\MefExtensibility\bin\Debug\MefExtensibility.exe.config
+C:\Users\dugalde\Downloads\Git\MEFSample\MefExtensibility\obj\Debug\MefExtensibility.exe
+C:\Users\dugalde\Downloads\Git\MEFSample\MefExtensibility\obj\Debug\MefExtensibility.pdb

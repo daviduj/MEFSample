@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:MefExtensibility" x:Class="MefExtensibility.MainWindow"
+        Title="MainWindow" Width="525">
+    <Grid>
+        <StackPanel Name="ButtonPanel" HorizontalAlignment="Left" Margin="8,8,0,0" VerticalAlignment="Top" Width="196" Height="480"/>
+        <ListBox x:Name="ColorList" HorizontalAlignment="Left" Height="422" Margin="204,0,0,0" VerticalAlignment="Top" Width="305"/>
+
+    </Grid>
+</Window>
